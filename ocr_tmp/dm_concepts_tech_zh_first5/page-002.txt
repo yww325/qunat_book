@@ -1,0 +1,50 @@
+目录
+
+第一章 引言 .sse ssssss ssssssss ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss B
+1.1 什么激发数据挖掘? 为什么它是重要的?8
+1.2 什么是数据控据?10
+1.3 数据挖掘一一在何种数据上进行3 .12
+LBD 履狂价谋4
+LBS GES BUPE 6
+1.3.4 GREER APUG LOGY FISY 6
+1.4 数据挖掘功能一一可以挖掘什么类型的模式? 18
+14.1 得念关硼试等第现区从9
+了.4.2 光珊从诉9
+
+了.4.3 从奖观现淹20
+LAA FEBYT 20
+LAS SIS DG cccssecssssesssesssssssssssssscsssussssssssssssucssssessssssssesssuscssucsssscsssesssucssssccssessssesssuesssucssseesssessssessseecsses QL
+
+了.4.6 VRAEIT 2
+1.5 所有模式都是有趣的吗 ?2
+1.6 数据挖据系统的分类.2
+1.8 总结 25
+习题 .6
+第二章 数据仓库和数据挖掘的 OLAP FQ AR uu. eccsesscsececsssecsssecsssecsssecsssecssscassecsssecsesecassecassecsssecsssecassecassecaseees 29
+2.1 什么是数据仓库?29
+2.2.1 PLERHUERAS BAG O/EWI IY cocccsssccssssssssssssssssssssssssussssssssssssesssssssssssussssssssssssssssssssssssssesesssees OO
+2.2 多维数据模型 32
+2.2.2 HUG. GER IA: 多纵煞多了揣天
+2.2.3 ERATE GEMS LATA FT vccccsscccsssscssssssssssssssssssssssssssssssssssssssssssisssssssssssssesssssssssssesesssees 30
+2.2.3 PEF EMIDIBUL GE vosccccecssesssssssssessssessssssssssssesssscssssssssessssessssessssssssesssuesssuesssssssessssessseeesseees 7,
+2.2.5 FAMED cossrccsssssssssssssssssuessssssssssssssssssssssssusssssussssssssssssussssssuesssssessssssesssssessssssesssssesssssesssssesesssees OO
+2.2.6 ZYERCHE REAL LAY OLAP PRUE cecseessssssssssssssssssessssessssesssscssssscssssssesssscssssssssessssesssuesssssssessssesssseesseees 40
+2.2.7 PVE GERHE FHI ETEVT CWA PEE ccc ccscsessssessssessssessssesssssssssssssesssucsssusssssssssesssscssscsssessssessssessseees 42
+2.3 数据仓库的系统结构2
+2.3.1 RYE OIENI ETT LIINGEIY cossecsssessssesssscssssesssussssssssesssucsssusssssssssesssucssssssssessssesssscsssessssesssseessscssseees 42
+2.3.2 JERYPOVEGHS cossccccssecsssssssssssesssssssesssssssssssssssssusssssssessssisssssssessssussssssssssssuessssssesssssessssssssssssesesssees 44
+2.3.3 OLAP IRA FERAL: ROLAP, MOLAP, HOLAP ff9LEBG cecssscsssssssssssssssssssssssssssssssssssssssssssssesssssees 45
+2.4 数据仓库实现 .46
+2.4.1 才狂方航育幼基篇
+2.4.2 BG] OLAP 六敬.50
+2.4.3 OLAP FEVIHIFE LIB 5
+2.4.4 TERHEGFMNG 53
+2.5 数据方技术的进一步发展.54
+2.5.1 履锭方发开锡动衣侨栈5
+2.5.2 多送谨上罚息专区化，多等天方间56
+2.5.3 真它矿展.57
+2.6 由数据仓库到数据控握58
+2.6.1 效多全旋入鸳58
+2.6.2 LTREBIA BT LTE PBII EST IEWE cossscccsssssssssssssssssssssssssssesssssssssessscsssssesssssssusesssssssssesssssssssessssessseees DY
+2.7 总结 .60
+习题 .1

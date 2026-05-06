@@ -1,0 +1,28 @@
+1.3.1 关系数据库
+数据库系统，也称数据库管理系统 (DBMS) ，由一组内部相关的数据，称作数据库，和一组
+管理和存取数据的软件程序组成。软件程序涉及如下机制: 数据库结构定义，数据存储，并行、共
+享或分布的数据访问，面对系统瘫痪或未授权的访问，确保数据的一致性和安全性。
+关系数据库是表的集合，每个表都赋予一个唯一的名字。每个表包含一组属性〈列或字段) ，
+并通常存放大量元组〈记录或行) 。关系中的每个元组代表一个被唯一关键字标识的对象，并被一
+组属性值描述。语义数据模型，如实体-联系 CER) 数据模型，将数据库作为一组实体和它们之间
+的联系进行建模。通常为关系数据库构造 ER 模型。
+考虑下面的例子。
+例1.1 AllElectronics 公司由下列关系表描述: customer, item, employee 和 branch。这些表的片
+BUYER 1.6 中给出。
+m 关系 customer 由一组属性，包括顾客的唯一标识号(cust_JD)，顾客的姓名、地址、年龄、职业、
+年收入、信誉信息、分类等。
+customer
+I
+Cl           Smith,Sandy         4563 E.Hastings,Burnaby,        21 | $27000             1
+we                we                  BC,V5A 4S9, Canada          we         we               we
+items
+13    high_res TV | Toshiba | high resolution   TV    $988.00    Japan    Niko X   $600.00
+18          mutidisc        Sanyo        mutidisc       CD player | $369.00        Japan          Music      $120.00
+we     CDplay     we       we        we      we      we      Front     we
+employee
+branch
+purchases
+items_sold
+T100      13      1
+T100      18      2
+works_at

@@ -1,0 +1,48 @@
+7.5.1 LLB CPWLVI ccccssccssssssssssssssssssssssssusssssuscssssusssssisssssssesssssssssssuesssssssssssiessssssssssssesssssessssssesesssees 176
+7.5.4 SEVP ETE RU AFTEIS ooscccsseccscesssssssssssssssssessssssssscsssussssessssessssesssssessessssesssesssesssessssesssueesseecsseeeseee LOL
+7.6 基于源于关联规则挖掘概念的分类 ss LBQ
+7.7 其它分类方法.183
+7.7.1 态复和访这从奖 .83
+7.72 ”大无笑振航天现84
+7.7.3 欧谓售)汰84
+7.7.4 PUREQE TTR coossccssssecsssssssssssssssssussssssssssssssssssuscssssssssssssssssssessssssssssssesssssssssssesssssssssssessssseessssseessssees 185
+7.75 PEGE AR coessccssssecsssssscssssessssssussssssssssssussssssessssussssussessssesssssssssssuessssisssssssesssssssssssessssssssssseessssees 185
+7.8 ”预测.186
+7.8.1 绑由参多元 LOO
+7.8.2 ”莽绑队友88
+7.8.3”真它厅好砚汪88
+7.9 分类的准确性 1188
+7.9.1 苹失从闫涉外闫盏袖 89
+7.9.2 ”元高从闫尖秒闫盏这 89
+7.9.3 ”上肉静亦孟佐外关涛义厅90
+7.10 ”总结间191
+B. 1 什么是聚类分析? 196
+8.， 2 聚类分析中的数据类型.197
+8.2.2 LX lif bKBE Cnterval-Scaled ) 变复98
+8.2.3 AEB HE Cbimary variable) 99
+8.2.4 AREKAY /FRCAY ALE UPR SEALE Es occcscscssssessssesssssssssssssessssssssscsssscssssssssessssesssssssessssessssessseeesseeess 200
+8.2.5 HE PSY IEE ceccccsssecssssssssesssusssssssssesssucsssusssssssssesssucsssucsssssssuesssucsssussssessssesssuesssucssseesssesssseesseeess QOL
+8.3 主要聚类方法的分类.201
+8.4 KZ ATV (PARTITIONING METHODS ) .202
+8.4.1 HAYA TT IA: k-Means Fil k-MedOids....scccssessssessssssssessssessssessssscsssscssessssesssssessessssesssseesseeesseesss 203
+8.4.2 AMPLEH EPID TE: SM k-medoids 21) CLARANS ..eessssssssssssssessssssssssesssssssessessessessseessees 205
+8.5 层次方法 206
+8.5.1 BER AIPID BONES 206
+8.5.2 BIRCH: W/E GEN F MEM AERA Balanced Iterative Reducing and Clustering Using
+Hierarchies ) 2207
+8. 5. 3CURE: HACE KAclustering using representative) 208
+8.5.4 Chameleon (28644) : 7 AU/Y ADE PRALIV EUR IGTP, socsseecessessessessessessessessessesssesessessesvess 208
+8.6 基于密度的方法 .209
+8.6.1 DBSCAN: PAE FREE AU ES BEATE GSS HHI REGIE, acsscsssssssssssssessessssssesssesssssesessssssseeesesss 210
+8.6.2 OPTICS: wit%/RH/FIRWRAAHY (Ordering Points to Identify the Clustering Structure) 210
+8. 6. 3DENCLUE: SEF BED APA RAIRER ossececcsssssesssssssssssssssssssessssssssssssessssssessessssseessssssneesees 211
+8.7 基于网格的方法 .212
+8.7.1 STING: 260,67 £1 F4(STatistical INformation Grid 2
+8.7.2 WaveCluster: 4CH])\ BE EPR. vacecescscesvesssvescsssscssessssssesssssssesessesvssssessesessssessesesssseessstesssessssesesees 213
+8.7.3 CLIQUE: FEA EGYE A csccsssessssessssessssssssssssssssssessssessssesssecsssesssscsssucsssessssesssuesssecsssessssessssessseesseeess 214
+8.8 基于模型的聚类方法.215
+8.9 FMF (OUTLIER) I} WT 217
+8.9.1 FEF ATE HIM cocsceccccsscssssssssssssesssssssessssssssssssssssucsssssscsssssessssssssssssesssssscsssssessssssessssseesssseeee 217
+8.9.2 FEF HEE HIIN LLM coccsccccssccsssssssssssssssssusssssssssessssssssssessssssssssssssessussssssessssuessssssesssssessssssesssssesess 218
+8.9.3 FEF Wb PBEWIIL ALM 2T9
+8.10 总缚.220

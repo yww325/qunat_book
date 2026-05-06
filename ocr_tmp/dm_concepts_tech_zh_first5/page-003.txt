@@ -1,0 +1,59 @@
+第三章 数据预处理 .ss sse ssessss sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss O4
+BL 为什么要预处理数据 ?64
+3.2 数据清理 66
+
+3.2.1 旭海篇和 OO
+3.2.2 麻章妆葡.66
+3.3 数据集成和变换.68
+BBL 效多货成8
+3.3.2 六狂恋英.69
+BA “数据归约0
+3.4.1”才多方守仑.1
+3.4.2 纵打弥2
+3.4.3 妆狂大和脏和3
+3.4.4 六防条胸 5
+3.5 离散化和概念分层产生 9
+3.5.1 履仿煞狂外艳谍龙观租伪外属产全 0
+3.5.2 ”从闫煞儿入租伪外属产全，和3
+3.6 总结 4
+习题 .85
+
+第四章 “数据挖掘原语、语言和系统结构 .sse seessssssssssssssssssssssssssssssssssssssssssssssssssssssssssss 87
+
+4.1 数据挖掘原语: 什么定义数据控据任务? 87
+ADL 谋杀极光入六攻9
+4.1.2 BEPEHAHIAITE HIF oosesssccssscssssssssssssssssssesssussssucsssesssscsssucssssssssesssucsssucsssessssesssscsssecssseessseesseeesseees OD
+413 FPREIMIN: PEED E cossccsssecsssesssstssssssssscsssssssssssssscsssessssesssssssssssssessssessssssssessssesssuessscssseessseessscesseees 90
+4.1.4 《上兴戎谨态所92
+4.1.5 ZEPWPEECHILEERUTT ME 94
+
+4.2 一种数据挖掘查询语言 .95
+4.2.1 (ERK EHS VENI GAIE: soccccsseccsssssesssssssssssssssssussssssscssssussssssscsssssssssssusssssuessssssesssssessssssesssssesssssees 96
+4.2.2 UEWISEMRAITRISALWI TAI: ccsssecsssessssesssscsssscsssussssssssesssscsssucsssessssesssscsssscsssesssscssssesssessssesssseessecesseees 7
+4.2.3 BEES EUW I TEE, occsescsecsssessssesssssssssssssscsssusssssssssesssscsssusssssssssessssesssussssessssesssuessssssseesssesssscesseees 99
+4.2.4 2EBDEPE IA UENY HITED: 99
+4.2.5 PRECHEGERU TT UVC VENT TTTE: ccccsseecsssssssssssssssssssssssssssssissssssssssssesssssssssssiessssssesssssessssssesssssesessee LOO
+426 WE —— PBS DM QU PRVIWWAF cosssecssesssvsssssssssesssssssssssssssssscssssssssssssessssesssssssesssseessecesses LOO
+4.2.7 HERA YEM EF BHT EIR IAWTDMEVE cote tts tsssessssseeseessssneeecssssneessssssseeessssees LOL
+
+4.3 基于数据挖掘查询语言设计图形用户界面 .ss LOZ
+
+4.4 数据控气系统的结构.102
+
+4.5 是结.和103
+
+第五章 概念描述: 特征与比较 .ss sse ssesssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss LOT
+5.1 什么是概念描述?107
+5.2 数据泛化和基于汇总的特征 108
+
+5.2.1 历应属队好鹏08
+5.2.2 ，”历记屏风她肋挤育慌实现
+
+5.3 解析特征: 属性相关性分析 .ss LIS
+5.3.1 YALA PT IG HAIRED? cocsseccscssvsssssssssssssssssssssssssesssssssssssesssssessssssesssssessssssesssssessssssessssseeees 115
+5.3.2 JB MALRST GE cosrcccsssessssssessssssssssssssssssusssssssessssssssssssessssssssssssesssssssssssesssssessssssessssseesssssessssseeees 115
+
+5.4 挖掘类比较: 区分不同的类 .1118
+SAL 美砂共存闫现实天8
+5.4.2 闫矿区硼斌秽珍弄20
+5.4.3”闫硼二。 雹大竺和比观秦欧2

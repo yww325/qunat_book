@@ -1,0 +1,6 @@
+数据挖掘: 概念与技术
+HARK
+Data Mining: Concepts and Techniques
+J. Han and M. Kamber
+Morgan Kaufmann
+2000

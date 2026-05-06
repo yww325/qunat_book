@@ -1,0 +1,59 @@
+习题
+
+1.1 ”什么是数据挖掘? 在你的回答中，强调以下问题
+(a) 它是又一个骗局吗?
+
+(b) 它是一种从数据库、统计和机器学习发展的技术的简单转换吗?
+(c) 解释数据库技术发展如何导致数据挖握。
+(d) 当把数据挖掘看作知识发现过程时，描述数据挖据所涉及的步骤。
+
+1.2 ”给出一个例子, 其中数据挖据对于商务的成功是至关重要的。该商务需要什么数据挖掘功能?
+它们能够由数据查询处理或简单的统计分析来实现吗?
+
+1.3 ”假定你是 Big-University 的软件工程师, 任务是设计一个数据挖掘系统, 分析学校课程数据库。
+该数据库包括如下信息: 每个学生的姓名、地址和状态〈例如，本科生或研究生) 、所修课程，
+以及他们的 GPA。描述你要选取的结构。该结构的每个成分的作用是什么?
+
+1.4 数据仓库和数据库有何不同? 它们有哪些相似之处?
+
+1.5 简述以下高级数据库系统和应用: 面向对象数据库、空间数据库、文本数据库、多媒体数据库、
+万维网。
+
+1.6 ”定义下列数据挖握功能: 特征、区分、关联、分类、预测、聚类、演变分析。使用你熟悉的生
+活中的数据库，给出每种数据挖握功能的例子。
+
+1.7 ”区分和分类的差别是什么? 特征和聚类的差别是什么? 分类和预测呢? 对于每一对任务, 它们
+有何相似之处?
+
+1.8 根据你的观察，描述一个可能的知识类型，它需要由数据挖据方法发现，但本章未列出。它需
+要一种不同于本章列举的数据挖掘技术吗?
+
+1.9 “描述关于数据挖所技术和用户交互问题的三个数据挖掘挑战。
+
+1.10 描述关于性能问题的两个数据挖掘挑战。
+
+文献注释
+
+Piatetsky-Shapiro 和 Frawley 编辑的书 Knowledge Discovery in Databases [PSF91]是数据库中知识
+发现早期研究论文的汇集。Fayyad，Piatetsky-Shapiro，Smyth 和 Uthurusamy 编辑的书 Advance in
+Knowledge Discovery and Data Mining[FPS+96]是一本知识发现和数据挖掘研究成果的很好的汇集。
+其它数据挖掘书籍包括 Weiss 和 Indurkhya 的 Predictive Data Mining [WI98]，Michalski，Brakto 和
+Kubat 的 Machine Learning and Data Mining: Methods and Applications [MBK98], Westphal 和 Blaxton
+的 Data Mining Solutions: Methoda and Tools for Solving Real-World Problems [WB98], Berry 和 Linoff
+的 The Art and Science of Customer Relationship Management [BL99], Berson, Smith 和 Thearling 的
+Building Data Mining Applications for CRM [BST99], ll Groth 的 Data Mining: Building Competitive
+Advantadge [Gro99]。还有一些书包含知识发现特定方面应用的论文，如 Ziarko 编辑的 Rough Sets,
+Fuzzy Sets and Knowledge Discovery [Zia94]，以及一些数据挖掘指南手册，如 ACM 出版社出版的
+Tutorial Notes of the 1999 International Conference on Knowledge Discovery and Data Mining
+
+(KDD’99) 。
+
+KDD Nuggets 是一个包含知识发现和数据挖气有关信息的定期的、免费的电子通讯。投稿可以
+连同描述主题行(和 URL) 用电子邮件发往 editor@kdnuggets.com 。关于订阅的信息可以在
+http://www.kdnuggets.com/news/subscribe.html 找到。自 1991 年以来，KDD Nuggets 已被
+Piatetsky_Shapiro 调整。位于 http:/www.kdnuggets.com/的 Internet 的站点 Knowledge Discovery Mine
+包含大量关于KDD 的信息。
+
+数据挖掘界于 1995 年开始了它的第一届次知识发现与数据挖掘国际学术会议 [FU96]。该会议
+是由 1989 至 1994 年举行的四次数据库中知识发现国际研讨会[PS89，PS91a，FU93，FU94]发展起
+来的。数据挖掘研究界于 1998 年建立起一个新的学术组织 ACM-SIGKDD，ACM 下的数据库中知
